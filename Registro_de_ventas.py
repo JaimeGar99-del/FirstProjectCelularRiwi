@@ -19,6 +19,7 @@ while True:
 
         tax = subtotal * 0.19
 
+
         # discount 10% for being VIP Customer
 
         if vip == 1:
